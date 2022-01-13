@@ -1,0 +1,53 @@
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.exe
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.pdb
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.DiagramCreator.resources
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Form1.resources
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Properties.Resources.resources
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.exe
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.pdb
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.exe
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.pdb
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.exe
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.pdb
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.DiagramCreator.resources
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Form1.resources
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Properties.Resources.resources
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Dima\Рабочий стол\s\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.exe
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.pdb
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.csproj.AssemblyReference.cache
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.DiagramCreator.resources
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Form1.resources
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Properties.Resources.resources
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.csproj.GenerateResource.cache
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.csproj.CoreCompileInputs.cache
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.exe
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.pdb
+C:\Users\isavy\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.live.resources
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.csproj.AssemblyReference.cache
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.DiagramCreator.resources
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Form1.resources
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.live.resources
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Properties.Resources.resources
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.csproj.GenerateResource.cache
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.csproj.CoreCompileInputs.cache
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.exe
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.pdb
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.exe
+C:\Users\OLEKSII.BURIATOV\Desktop\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.pdb
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.exe
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\bin\Debug\DiagramAndGistogram.pdb
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.csproj.AssemblyReference.cache
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.DiagramCreator.resources
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Form1.resources
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.live.resources
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.Properties.Resources.resources
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.csproj.GenerateResource.cache
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.csproj.CoreCompileInputs.cache
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.exe
+C:\Users\isavy\Desktop\V2\DiagramAndGistogram\DiagramAndGistogram\obj\x86\Debug\DiagramAndGistogram.pdb
